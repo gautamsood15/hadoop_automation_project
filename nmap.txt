@@ -1,0 +1,38 @@
+
+Starting Nmap 6.40 ( http://nmap.org ) at 2018-01-13 19:20 IST
+Nmap scan report for 192.168.43.1
+Host is up (0.0022s latency).
+MAC Address: D2:F8:8C:9F:66:C1 (Unknown)
+Nmap scan report for tt1 (192.168.43.46)
+Host is up (0.055s latency).
+MAC Address: 00:E1:8C:65:29:12 (Unknown)
+Nmap scan report for 192.168.43.116
+Host is up (0.00037s latency).
+MAC Address: 08:00:27:29:C3:73 (Cadmus Computer Systems)
+Nmap scan report for clint (192.168.43.143)
+Host is up (0.17s latency).
+MAC Address: B0:C0:90:48:2E:BB (Unknown)
+Nmap scan report for 192.168.43.145
+Host is up (0.00070s latency).
+MAC Address: 08:00:27:22:EC:C8 (Cadmus Computer Systems)
+Nmap scan report for 192.168.43.164
+Host is up (0.00037s latency).
+MAC Address: 08:00:27:A4:45:DB (Cadmus Computer Systems)
+Nmap scan report for HP (192.168.43.201)
+Host is up (0.00029s latency).
+MAC Address: C4:8E:8F:B0:64:AD (Unknown)
+Nmap scan report for 192.168.43.220
+Host is up (0.00021s latency).
+MAC Address: 08:00:27:F5:46:2C (Cadmus Computer Systems)
+Nmap scan report for window-phone (192.168.43.224)
+Host is up (0.10s latency).
+MAC Address: 9C:6C:15:F5:45:D8 (Unknown)
+Nmap scan report for vicky-Vostro-15-3568 (192.168.43.249)
+Host is up (0.12s latency).
+MAC Address: 00:E1:8C:65:29:12 (Unknown)
+Nmap scan report for DESKTOP-AKS4DLU (192.168.43.250)
+Host is up (0.12s latency).
+MAC Address: B0:C0:90:48:2E:BB (Unknown)
+Nmap scan report for 192.168.43.234
+Host is up.
+Nmap done: 256 IP addresses (12 hosts up) scanned in 6.35 seconds
